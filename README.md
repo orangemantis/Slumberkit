@@ -1,7 +1,7 @@
 Slumber Kit - A sleepy toolkit for Dreamhosters.
 ==========
 
-**Slumber Kit** is a collection of Pyhton modules created to automate various task for Dreamhost shared servers.
+**Slumber Kit** is a collection of Python modules created to automate various task for Dreamhost shared servers.
 
 ##Pookie - A module for fetching files from Github (or any site really) via HTTP
   
